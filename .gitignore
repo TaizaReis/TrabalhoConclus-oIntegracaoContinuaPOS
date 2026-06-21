@@ -1,0 +1,9 @@
+# Dependências
+node_modules/
+
+# Relatórios de teste (deixamos o Git ignorar o que é gerado dinamicamente)
+reports/
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
