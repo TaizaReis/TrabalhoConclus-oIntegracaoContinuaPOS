@@ -1,3 +1,4 @@
+<img width="899" height="906" alt="Screenshot_3" src="https://github.com/user-attachments/assets/adba311a-a392-4a90-9951-450facfd74d4" />
 # Conversor de Moedas - CI Pipeline
 
 Este projeto é uma ferramenta de conversão de moedas desenvolvida como parte da disciplina de Automação de Testes. O objetivo principal é demonstrar a implementação de uma esteira de Integração Contínua (CI) utilizando GitHub Actions.
