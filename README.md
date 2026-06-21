@@ -1,3 +1,4 @@
+
 # Conversor de Moedas - CI Pipeline
 
 Este projeto é uma ferramenta de conversão de moedas desenvolvida como parte da disciplina de Automação de Testes. O objetivo principal é demonstrar a implementação de uma esteira de Integração Contínua (CI) utilizando GitHub Actions.
@@ -27,6 +28,5 @@ O projeto utiliza o `jest-junit` para gerar relatórios detalhados em formato XM
 ---
 
 ## Evidência de Execução
-*(Sugestão: Após realizar o primeiro push e a pipeline rodar, tire um print da tela de "Actions" no GitHub, salve a imagem no seu computador e arraste-a para esta parte do README. Isso validará visualmente que sua pipeline funciona.)*
 
----
+<img width="899" height="906" alt="Screenshot_3" src="https://github.com/user-attachments/assets/9fff7535-6e4c-4c17-b9ff-ff7949d8fd85" />
