@@ -30,3 +30,6 @@ O projeto utiliza o `jest-junit` para gerar relatórios detalhados em formato XM
 ## Evidência de Execução
 
 <img width="899" height="906" alt="Screenshot_3" src="https://github.com/user-attachments/assets/9fff7535-6e4c-4c17-b9ff-ff7949d8fd85" />
+
+<img width="637" height="874" alt="Screenshot_2" src="https://github.com/user-attachments/assets/de942b13-f4cf-4145-be7f-f81710a545f0" />
+
